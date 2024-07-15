@@ -1,5 +1,6 @@
 package src;
 //  Learning Java for IB, coming from a C++ background
+//  Different types of casting (widening) (manual)
 public class Casting {
     public static void main(String[] args){
         //  Widening Casting (passing a smaller size type like "int" to a larger size type like "double")

@@ -1,6 +1,6 @@
 package src;
 //  Learning Java for IB, coming from a C++ background
-
+//  Different types of variables
 
 /*
 byte	1 byte	Stores whole numbers from -128 to 127

@@ -1,5 +1,20 @@
 package src;
 //  Learning Java for IB, coming from a C++ background
+//  Strings
+
+/*
+\'	'	Single quote
+\"	"	Double quote
+\\	\	Backslash
+*/
+
+/*
+\n	New Line	
+\r	Carriage Return	
+\t	Tab	
+\b	Backspace	
+\f	Form Feed
+*/
 
 public class Strings {
     public static void main(String[] args) {
