@@ -21,7 +21,7 @@ System.out.println(d1);
 */
 
 public class Variables {
-    public static void main(){
+    public static void main(String[] args){
         String S = "Hello";
         int i = 100;
         double d = 10.11;

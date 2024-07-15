@@ -1,7 +1,7 @@
 package src;
 //  Learning Java for IB, coming from a C++ background
 public class Casting {
-    public static void main(){
+    public static void main(String[] args){
         //  Widening Casting (passing a smaller size type like "int" to a larger size type like "double")
         int myInt = 19;
         double myDouble = myInt;    //  No parentheses, done automatically

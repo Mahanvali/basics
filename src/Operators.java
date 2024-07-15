@@ -2,7 +2,7 @@ package src;
 //  Learning Java for IB, coming from a C++ background
 
 public class Operators {
-    public static void main(){
+    public static void main(String[] args){
         //  Arithemetic operators
         int addition = 5 + 5;
         int subtraction = 2 - 1;
