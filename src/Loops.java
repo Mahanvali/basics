@@ -9,7 +9,6 @@ public class Loops {
     public static void main(String args[]){
         //  While loop
         //  Print til 30, when reached 30, stop.
-
         int i = 0;
         while(i <= 30){
             System.out.println(i);
@@ -25,6 +24,16 @@ public class Loops {
         //  Print till 99, + 2 every time
         for(int x = 0; x < 100; x = x + 2){
             System.out.println(x);
+        }
+        //  For each loops
+        /*
+            for (type variableName : arrayName) {
+            }
+        */
+        //  Print out the array
+        String[] languages = {"C++", "Java", "Python", "Ruby", "C"};
+        for (String y : languages){
+            System.out.println(y);
         }
     }
 }
