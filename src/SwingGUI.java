@@ -1,11 +1,11 @@
-package numberguessergui.src;
+package src;
 import java.util.Random;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
-public class Main {
+public class SwingGUI {
     public static int screenHeight = 400;
     public static int screenWidth = 500;
     public static void main(String[] args)
